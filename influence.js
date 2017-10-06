@@ -1,3 +1,10 @@
+// <-- New setup --->
+// provide a date
+// strip the year, month and day
+// run each value through numberBelow10
+// add all results
+// run value through numberBelow22
+
 var influence = (strDate) => {
   // pull the date apart into year, month and day
   var dateObj = {
