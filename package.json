@@ -1,0 +1,7 @@
+{
+  "name": "influence",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
